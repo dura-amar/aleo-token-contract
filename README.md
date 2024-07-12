@@ -1,4 +1,4 @@
-# Used DokoJS for initial project set.
+# Used DokoJS for initial project setup.
 
 
 ## DokoJS Developer Guide
